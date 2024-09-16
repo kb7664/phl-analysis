@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Poetry
+poetry.lock
+
+# Data
+data/raw/
+
+# Environment
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+.venv/
